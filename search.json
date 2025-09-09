@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Welcome"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About Devin Simmons\nDevin Simmons is a 2LT in TXARNG. Serves as Platoon leader in Charlie Battery, 1st Brigade, 133rd FA regiment.\nReceived Bachelors of Arts in History and Military Science from The University of Arizona in 2025\nStarted pursuing Masters in GIS from UTD Fall 2025.\nWork"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "resume.html#quarto",
+    "href": "resume.html#quarto",
+    "title": "Resume",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "resume.html#running-code",
+    "href": "resume.html#running-code",
+    "title": "Resume",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "assign01.html",
+    "href": "assign01.html",
+    "title": "Assignment 1",
+    "section": "",
+    "text": "Using Rscript is confusing and has been difficult. I have used several sources of information and still am having difficulty to create my desired project. I have started over multiple times and things are still difficult."
+  }
+]
